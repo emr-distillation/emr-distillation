@@ -32,15 +32,9 @@ You can download the trained model ckpt and test dataset from following google d
 
 **Test data**: https://drive.google.com/drive/folders/1uzyfIejR0nYAKvmXdinBceoLE04Z23WZ?usp=drive_link
 
-## Model Description
-
-
 ## Model Performance
-
-## Citation
-    @InProceedings{kim2024sparse,
-      title={},
-      author={},
-      journal={},
-      year={2024}
-    }
+<img src="https://github.com/emr-distillation/emr-distillation/assets/160422103/2229f165-2b5f-4def-b811-5c44701f4d2f" width="800" height="400">
+The contrastive setting consistently enhanced the performance of knowledge distillation/
+Sentence-level knowledge distillation(S-KD) with contrastive setting surpasses document-level knowledge distillation(D-KD) with contrastive setting in performance.
+You can test and evaluate our models through the uploaded code.
+In addition, you can directly inference our S-KD through our huggingface space.(https://huggingface.co/spaces/emr-distillation/Onpremise_LLM_Normal_Detection)
